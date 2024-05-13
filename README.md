@@ -4,11 +4,11 @@
 
 This task demonstrates the creation of a comprehensive database system based on a client brief for a library. The objective is to design and implement a database system that manages member information, library catalog, loan history, and overdue fine repayments.
 
-# Project Brief
+### Project Brief
 
 Imagine you are employed as a database developer consultant for a library. They are currently in the process of developing a new database system which they require for storing information on their members, their library catalogue, loan history, and overdue fine repayments. In your initial consultation with the library, you have gathered the information below. Please read the below carefully and continue to the task description.
 
-## Client Requirements
+### Client Requirements
 
 1. **Member Information**:
    - When a member joins the library, they need to provide their full name, address, date of birth, and they must create a username and password to allow them to sign into the member portal.
@@ -30,7 +30,7 @@ Imagine you are employed as a database developer consultant for a library. They 
    - If the item is overdue, an overdue fee needs to be calculated at a rate of 10p per day.
    - The library processes hundreds of loans a day and details of the items on loan are business critical for them, so they need to avoid data loss if their systems go down. However, if their systems are down for a couple of hours, they think this isn’t too much of an issue for them.
 
-## Task Details
+### Task Details
 
 As the database consultant, you are required to design the database system based on the information provided above, along with a number of associated database objects, such as stored procedures, user-defined functions, views, and triggers. Your submission will take the form of working T-SQL statements required for the steps outlined below, a backup of the database created, and a report explaining and justifying your design decisions, and the process you followed to complete the tasks. You should include screenshots and the T-SQL statements within the report itself.
 
@@ -65,7 +65,7 @@ As the database consultant, you are required to design the database system based
 7. **Additional Database Objects**:
    - If there are any other database objects such as views, stored procedures, user-defined functions, or triggers which you think would be relevant to the library given the brief above, you will obtain higher marks for providing these along with an explanation of their functionality.
 
-## Report Guidelines
+### Report Guidelines
 
 Within your report, you will also need to provide your client with advice and guidance on:
 - Data integrity and concurrency
