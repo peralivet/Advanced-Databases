@@ -85,3 +85,5 @@ To get more than a satisfactory mark, you must use all of the below at least onc
 ## Conclusion
 
 This project outlines the development of a robust library database system that meets the specified requirements, ensuring data integrity, security, and efficient management of library operations. The detailed T-SQL implementation, supported by a comprehensive report, demonstrates the ability to transform client needs into a functional database system.
+
+The database report file contains the report for this project while the Peter-Adepoju_sql.sql file contains the SQL codes
